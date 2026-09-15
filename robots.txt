@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /b/
+Disallow: /c/
+
+Sitemap: https://agentflow.kz/sitemap.xml
